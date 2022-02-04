@@ -8,6 +8,11 @@
 ### Proyectos
 - <a href="https://videogames-app-gamma.vercel.app/">Videogames App</a>
 
+<p>
+  Proyecto Individual desarrollado para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de Videogames.<br>
+  Implementando funcionalidades de filtrado, búsqueda, ordenamiento y creación de nuevas tarjetas infomativas de videojuegos.
+</p>
+
 
 
 
