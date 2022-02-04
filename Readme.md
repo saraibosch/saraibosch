@@ -1,4 +1,4 @@
-### Hola, Soy Sarai 👋 :Argentina:
+### Hola, Soy Sarai. 👋 Vivo en Argentina
 #### Full Stack Developer 
 
 ### Contacto
